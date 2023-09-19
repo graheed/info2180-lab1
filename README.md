@@ -1,5 +1,5 @@
 # INFO2180 Lab 1
-This is Lab 1 for <Raheed Gilzene>
+This is Lab 1 for Raheed Gilzene.
 
 ## Branching
 Branching allows you to isolate development work without
